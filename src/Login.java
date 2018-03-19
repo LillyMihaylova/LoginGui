@@ -15,7 +15,7 @@ public class Login {
     }
 
     public void createForm() {
-        //// Some comment
+        
         JFrame frame = new JFrame("MyForm");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
